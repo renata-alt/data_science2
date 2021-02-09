@@ -1,0 +1,24 @@
+{
+    "id": "8A57A063",
+    "path": "~/LEMB/data_science_20-21/cambala/maps/map.R",
+    "project_path": "maps/map.R",
+    "type": "r_source",
+    "hash": "2780429291",
+    "contents": "",
+    "dirty": false,
+    "created": 1612277760895.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "300,0",
+        "scrollLine": "286"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612881450,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612881450,
+    "read_only": false,
+    "read_only_alternatives": []
+}
