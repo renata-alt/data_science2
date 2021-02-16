@@ -1,6 +1,6 @@
 {
     "id": "8A57A063",
-    "path": "~/LEMB/data_science_20-21/cambala/maps/map.R",
+    "path": "~/LEMB/data_science_20-21/data_science2/cambala/maps/map.R",
     "project_path": "maps/map.R",
     "type": "r_source",
     "hash": "2780429291",
@@ -11,7 +11,7 @@
     "relative_order": 4,
     "properties": {
         "cursorPosition": "300,0",
-        "scrollLine": "286"
+        "scrollLine": "282"
     },
     "folds": "",
     "lastKnownWriteTime": 1612881450,
